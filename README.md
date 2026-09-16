@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce fork propose un parcours documentaire francophone : [voir docs/fr](./docs/fr/).
+
 # Size audit details
 
 - Total Prize Pool: $200,000 in USDC
